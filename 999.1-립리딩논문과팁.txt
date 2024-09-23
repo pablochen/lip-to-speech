@@ -1,0 +1,12 @@
+한국어 립리딩 개선 논문 2024년도 작
+https://jkimst.org/upload/pdf/KIMST-2024-27-2-167.pdf
+
+구현 깃허브(둘다 성능에 대한 코멘트는 없음)
+https://github.com/dnwjddl/LipReading_Korean
+(3년전)
+https://github.com/kykymouse/koreanLipNet
+(5년전)
+
+
+
+
