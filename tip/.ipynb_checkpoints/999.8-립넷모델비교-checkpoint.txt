@@ -1,0 +1,12 @@
+종합 비교 요약:
+정확도: 
+LipCoordNet과 TCS-LipNet이 가장 높은 정확도를 보이며,
+Efficient LipReading도 경량화된 모델임에도 높은 정확도를 제공합니다.
+
+연산량: 
+Efficient LipReading과 DCTCN이 연산량 면에서 가장 효율적이며, 실시간 처리 성능이 뛰어납니다. 
+LipCoordNet은 높은 정확도를 제공하지만, 연산량이 상대적으로 많습니다.
+
+실시간 처리: 
+DCTCN과 Efficient LipReading이 실시간 처리에 가장 적합하며, 
+TCS-LipNet도 높은 성능을 유지합니다.
